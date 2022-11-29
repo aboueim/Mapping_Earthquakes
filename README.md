@@ -11,7 +11,7 @@ In this project, I develp an interactive map through visualization of GeoJSON da
 
 ## Results
 
-**Link to the interactive map:** https://aboueim.github.io/Mapping_Earthquakes/
+**Link to the interactive map:** 
 
 
 
