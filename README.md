@@ -15,6 +15,6 @@ In this project, I develp an interactive map through visualization of GeoJSON da
 
 Below are screenshots of the map in Streets, Satellite, and Dark views, including earthquake data within different layers of magnitute.
 
-![This is an image](Streets.png)
+![This is an image](Street.png)
 ![This is an image](Satellite.png)
 ![This is an image](Dark.png)
