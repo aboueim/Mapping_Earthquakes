@@ -1,4 +1,4 @@
-### Earchquake Mapping
+# Earchquake Mapping
 
 ## Project Overview
 
