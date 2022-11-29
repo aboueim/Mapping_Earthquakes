@@ -10,8 +10,6 @@ In this project, I will develop an interactive map that uses GeoJSON data to sho
 
 ## Results
 
-**Link to the map:** https://aboueim.github.io/Mapping_Earthquakes/
-
 Below are screenshots of the map in different views.
 
 ![This is an image](Street.png)
