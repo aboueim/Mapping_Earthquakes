@@ -9,4 +9,10 @@ In this project, I develp an interactive map through visualization of GeoJSON da
 
 **Software:** JavaScript, HTML/CSS, Visual Studio Code 1.73.1, Leaflet 1.9.3 D3.js 7.6.1
 
+## Results
+
+**Link to the interactive map:** 
+
+
+
 
