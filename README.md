@@ -6,6 +6,7 @@ In this project, I develp an interactive map through visualization of GeoJSON da
 
 ## Resources
 **Data Sources:** [Earthquakes GeoJSON](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson), [Tectonic Plate GeoJSON](https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json), and [Earthquakes above 4.5mag GeoJSON](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson).
-Software: JavaScript, HTML/CSS, Visual Studio Code 1.73.1, Leaflet 1.9.3 D3.js 7.6.1
+
+**Software:** JavaScript, HTML/CSS, Visual Studio Code 1.73.1, Leaflet 1.9.3 D3.js 7.6.1
 
 
